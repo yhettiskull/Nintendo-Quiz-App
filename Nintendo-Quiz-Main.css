@@ -1,0 +1,45 @@
+* {
+    font-family: 'Orbitron', sans-serif;
+    background: whitesmoke;
+}
+
+header {
+    margin: 20px 10px 30px 10px;
+    width: 100%;
+    color: black;
+    font-size: 20px;
+}
+
+.header-container {
+    display: block;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+a:visited {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#logo-container {
+    
+}
+
+.nintendo-header-img {
+    height: 100%;
+    margin: 0;
+}
+
+main {
+    text-align: center;
+}
+
+.startButton {
+    border-radius: 14px;
+}
