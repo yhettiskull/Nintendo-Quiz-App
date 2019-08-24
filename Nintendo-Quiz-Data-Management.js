@@ -7,7 +7,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 10,
         userCorrect: '',
-        fact: 'Mario was originally just a no-name carpenter with a pet monkey we now know as Donkey Kong, before his starlight role with the name Mario and new gig as a princess saving plumber.'
+        fact: 'Mario was originally just a no-name carpenter before his starlight role and new gig as a princess saving plumber in 1983.'
     },
     {
         question: 'Name this pokemon.',
@@ -18,7 +18,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 10,
         userCorrect: '',
-        fact: 'Pikachu is the most recognizable Pokemon from the long running cartoon and game franchise, but there are over 800 Pokemon now. Can you catch \'em all?'
+        fact: 'Pikachu is the most recognizable Pokemon from the long running cartoon & game franchise, but there are over 800 Pokemon now. Can you catch \'em all?'
     },
     {
         question: 'Name this character.',
@@ -29,7 +29,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 10,
         userCorrect: '',
-        fact: 'Waluigi, the long-time rival of Luigi and counter-part to Wario, Mario\'s nemisis, made his first apperence in Mario Tennis for the N64 and GameBoy Color in 2000.'
+        fact: 'Waluigi, the long-time rival of Luigi, made his first apperence in Mario Tennis for the N64 in 2000.'
     },
     {
         question: 'Named after its function and shape, this console well undersold after only 22 million units left shelves during its lifetime.',
@@ -39,7 +39,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 20,
         userCorrect: '',
-        fact: 'The Gamecube is considered one of Nintendo\'s largest failures. Though it had many now iconic titles, it fell flat compared to its competition including Sony\'s PlayStation 2, the most successful console ever.'
+        fact: 'The Gamecube is considered one of Nintendo\'s largest failures. Though it had many now iconic titles, it fell flat compared to its competition including Sony\'s PlayStation 2.'
     },
     {
         question: 'When the Wii debuted in 2006, which game came with all consoles?',
@@ -59,7 +59,7 @@ const dataBank = [
         trueFalse: true,
         pointValue: 30,
         userCorrect: '',
-        fact: 'The Gamecube spouted many excellent addons during its lifetime, including one of the first wireless controllers for console, and a small mountable screen. The Powerglove however, performed terrible and was discontinued two years before the Gamecube was released.'
+        fact: 'The Gamecube spouted many excellent addons during its lifetime, including one of the first wireless controllers for console. The Powerglove however, performed terrible and was discontinued two years before the Gamecube was released.'
     },
     {
         question: 'Nintendos flagship handheld console the GameBoy met consumers for the first time in which year?',
@@ -69,7 +69,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 30,
         userCorrect: '',
-        fact: 'Arguably the most iconic console ever released for handheld use, the GameBoy met shelves in 1989, and saw 15 years of success and 6 models.'
+        fact: 'Arguably the most iconic console ever released for handheld, the GameBoy met shelves in 1989, and saw 6 models over 15 years.'
     },
     {
         question: 'Bill Gates founded Nintendo in 1974 as a pet project. In 1980 after creating several fan-favorite arcade games he sold the company to a Japanese playing card company, and went on to create Microsoft and the Xbox console family.',
@@ -79,7 +79,7 @@ const dataBank = [
         trueFalse: true,
         pointValue: 30,
         userCorrect: '',
-        fact: 'Bill Gates founded Microsoft in 1974 to build computer parts. However, by the early 2000\'s Gates was clamoring to buy Nintendo, though Nintendo executives declined his many offers.'
+        fact: 'Bill Gates founded Microsoft in 1974 to build computer parts. By the early 2000\'s Gates was clamoring to buy Nintendo, but they declined his many offers.'
     },
     {
         question: 'How many colors is the GameBoy Advance capable of potentially displaying?',
@@ -89,7 +89,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 40,
         userCorrect: '',
-        fact: 'The GameBoy Advance was the largest overhall of the handheld platform when it premeired in 2001. A much larger color display with a pallet of 65,535 possible colors, and a 32-bit CPU all helped usher a new generation of gaming.'
+        fact: 'The GameBoy Advance released in 2001 with a 2.9 inch display capable of 65,535 possible colors.'
     },
     {
         question: 'Nintendo was founded in which year?',
@@ -99,7 +99,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 40,
         userCorrect: '',
-        fact: 'Nintendo started out as a playing card company in Kyoto in 1889. Struggling to compete they turned to toys in the 60\'s with some newly found capital, finally stepping into video games in the mid 70\'s.'
+        fact: 'Nintendo started as a playing card company in Kyoto in 1889. Looking to expand they turned to toys in the 60\'s, finally leaping into video games in the 70\'s.'
     },
 ];
 
