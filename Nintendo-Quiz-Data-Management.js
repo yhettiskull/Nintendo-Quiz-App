@@ -39,7 +39,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 20,
         userCorrect: '',
-        fact: 'The Gamecube is consiered one of Nintendo\'s largest commercial failures. Though it allowed for the playing of many iconic games, as well as supporting of many aftermarket addons that even allowed you to play your GameBoy games on the big-screen, it fell flat compared to its contemporary competition including Sony\'s PlayStation 2, the absolute most successful console ever put to market.'
+        fact: 'The Gamecube is considered one of Nintendo\'s largest failures. Though it had many now iconic titles, it fell flat compared to its competition including Sony\'s PlayStation 2, the most successful console ever.'
     },
     {
         question: 'When the Wii debuted in 2006, which game came with all consoles?',
@@ -49,7 +49,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 20,
         userCorrect: '',
-        fact: 'Wii Sports is not only the best selling video game of all time as of 2013, but rose to prominence by show-casing the Wii\'s motion based controls, with an easily digestable platform allowing players to jump into the future with simulated bowling, boxing, and tennis among other sports. It could also be argued that it was the greastest catatyst in the giant push for consoles to adopt motion control and eventually VR.'
+        fact: 'Wii Sports is not only the best selling video game of all time, but was the first game to truly showcase full motion based controls.'
     },
     {
         question: 'Breaking past tradition, the Gamecube allowed players to play Wii games as long as players had the proprietary wireless Powerglove adapter.',
@@ -59,7 +59,7 @@ const dataBank = [
         trueFalse: true,
         pointValue: 30,
         userCorrect: '',
-        fact: 'The Gamecube had a plethra of excellent addons during its lifetime, including one of the first wireless controllers made for a console, the GameBoy player, and a 5.4 inch mountable screen to play on the go. The Powerglove however, was totally rad, but totally sucked and was discontinued in 1990. The Gamecube was released two years later.'
+        fact: 'The Gamecube spouted many excellent addons during its lifetime, including one of the first wireless controllers for console, and a small mountable screen. The Powerglove however, performed terrible and was discontinued two years before the Gamecube was released.'
     },
     {
         question: 'Nintendos flagship handheld console the GameBoy met consumers for the first time in which year?',
@@ -69,7 +69,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 30,
         userCorrect: '',
-        fact: 'Arguably the most iconic console ever released for handheld use, and maybe beyond, the GameBoy met shelves in 1989 as the DMG-01. Boasting a title list over 1000 strong, the GameBoy also saw 7 different models over its 15 year lifetime and came in a myriad of colors and special editions before being succeded by the Nintendo DS in 2004.'
+        fact: 'Arguably the most iconic console ever released for handheld use, the GameBoy met shelves in 1989, and saw 15 years of success and 6 models.'
     },
     {
         question: 'Bill Gates founded Nintendo in 1974 as a pet project. In 1980 after creating several fan-favorite arcade games he sold the company to a Japanese playing card company, and went on to create Microsoft and the Xbox console family.',
@@ -79,7 +79,7 @@ const dataBank = [
         trueFalse: true,
         pointValue: 30,
         userCorrect: '',
-        fact: 'Bill Gates founded Microsoft in 1974 to build computer parts. However, by the early 2000\'s Mr. Gates was clamoring to buy Nintendo, forcing the lead shareholder at the time, Hiroshi Yamauchi, to decline multiple pressing offers.'
+        fact: 'Bill Gates founded Microsoft in 1974 to build computer parts. However, by the early 2000\'s Gates was clamoring to buy Nintendo, though Nintendo executives declined his many offers.'
     },
     {
         question: 'How many colors is the GameBoy Advance capable of potentially displaying?',
@@ -89,7 +89,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 40,
         userCorrect: '',
-        fact: 'The GameBoy Advance was the largest overhall of the handheld platform to date when it premeired in 2001. A significantly larger color display with a pallet of 65,535 possible colors, added buttons, and a 32-bit CPU all carried the then 11 year old platform into the future.'
+        fact: 'The GameBoy Advance was the largest overhall of the handheld platform when it premeired in 2001. A much larger color display with a pallet of 65,535 possible colors, and a 32-bit CPU all helped usher a new generation of gaming.'
     },
     {
         question: 'Nintendo was founded in which year?',
@@ -99,7 +99,7 @@ const dataBank = [
         trueFalse: false,
         pointValue: 40,
         userCorrect: '',
-        fact: 'Nintendo started out as a playing card company in Kyoto in 1889. Struggling to compete they turned to toys in the 60\'s with some newly found capital after licensing Disney character\'s for their cards. Finally stepping into video games in the mid 70\'s'
+        fact: 'Nintendo started out as a playing card company in Kyoto in 1889. Struggling to compete they turned to toys in the 60\'s with some newly found capital, finally stepping into video games in the mid 70\'s.'
     },
 ];
 

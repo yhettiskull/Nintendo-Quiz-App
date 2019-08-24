@@ -322,6 +322,7 @@ input[type="radio"]:checked {
 }
 
 .correct-answer p {
+  line-height: 24px;
   margin: 0 5px;
   font-weight: 600;
   color: white;
@@ -354,7 +355,8 @@ input[type="radio"]:checked {
 }
 
 .incorrect-answer p {
-   margin: 0 5px;
+  line-height: 24px;
+  margin: 0 5px;
   font-weight: 600;
   color: white;
 }
